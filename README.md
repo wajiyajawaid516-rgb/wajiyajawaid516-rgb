@@ -1,26 +1,20 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=220&section=header&text=Wajiya%20Anam%20Jawaid&fontSize=60&animation=fadeIn" width="100%" />
-
-  <h3>🚀 Data Science & Systems Engineering Specialist</h3>
-  <p><b>MSc Data Science (Distinction) | IT Systems Developer at Lee Wakemans</b></p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/wajiyajawaid516">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-Cardiff,%20UK-orange?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/MSc-Distinction-green?style=for-the-badge" />
-  </p>
+  <h3>🚀 Systems Architect | Data Engineer | Automation Specialist</h3>
+  <p><b>MSc Data Science (Distinction) | Modernizing Industrial Operations at Lee Wakemans</b></p>
 </div>
 
 ---
 
-### 💻 About Me
-I am a specialized **Data Engineering & Automation professional** focused on digitizing manual operations into scalable, secure systems. My expertise lies in bridging the gap between high-level Machine Learning research and real-world production systems.
+### 💻 The Mission
+I specialize in **engineering digital clarity out of operational chaos.** 
 
-- 🏗️ **Currently:** Managing Digital Transformation and Relational Data Architectures at Lee Wakemans.
-- 🧪 **Research:** High-dimensional text categorization and Engineering QA automation.
-- ⚡ **Focus:** Turning complex data flows into simple, automated, and secure business solutions.
+Whether it's migrating fragmented construction data from hundreds of spreadsheets into a high-performance **DuckDB/Baserow** ecosystem, or productizing academic ML research into **React-driven** inference dashboards, I build the "glue" that makes modern businesses scale.
+
+#### 🛠️ What I do best:
+- **🗄️ Relational Architecture:** Designing "Single Source of Truth" systems that replace legacy manual workflows.
+- **⚙️ Operational Automation:** Building the engines that reduce 3-hour manual tasks to < 30-second programmatic executions.
+- **🧠 Full-Stack AI:** Bridging the gap between a Python notebook and a user-facing, production-ready AI product.
 
 ---
 
@@ -31,25 +25,50 @@ I am a specialized **Data Engineering & Automation professional** focused on dig
 
 ---
 
-### 🌟 Featured Repositories
+### 🚀 Highlighted Systems
 
-| Project | Highlights | Tech Stack |
-| :--- | :--- | :--- |
-| **🧠 [OmniClassify AI](https://github.com/wajiyajawaid516-rgb/OmniClassify-AI)** | Real-time ML Benchmarking Dashboard for 20-category text classification. | React, FastAPI, Scikit-Learn |
-| **🏗️ [Analytics Platform](https://github.com/wajiyajawaid516-rgb/Automated-Project-Analytics-Platform)** | Production-ready automation engine reducing admin time by 99%. | Python, FastAPI, Streamlit |
-| **🌊 [Sewer Flow QA](https://github.com/wajiyajawaid516-rgb/Sewer-Flow-Analytical-QA-Framework)** | MSc Dissertation: Automated Engineering QA with RAG health diagnostics. | Python, Hydrology, Plotly |
+<table>
+  <tr>
+    <td width="50%">
+      <b>🧠 OmniClassify AI</b><br/>
+      <i>Real-time ML Benchmarking Hub</i><br/>
+      Providing instant semantic inference across 20 categories with live probability distribution.<br/>
+      <a href="https://github.com/wajiyajawaid516-rgb/OmniClassify-AI">View Repo →</a>
+    </td>
+    <td width="50%">
+      <b>🏗️ Analytics Platform</b><br/>
+      <i>Industrial Workflow Automation</i><br/>
+      A production-grade system automating project lifecycle management and professional reporting.<br/>
+      <a href="https://github.com/wajiyajawaid516-rgb/Automated-Project-Analytics-Platform">View Repo →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🌊 Sewer Flow QA</b><br/>
+      <i>Engineering QA Framework</i><br/>
+      A reproducible diagnostic engine for industrial hydrology data validation.<br/>
+      <a href="https://github.com/wajiyajawaid516-rgb/Sewer-Flow-Analytical-QA-Framework">View Repo →</a>
+    </td>
+    <td width="50%">
+      <b>📊 Data Management System</b><br/>
+      <i>Relational Infrastructure</i><br/>
+      The core backbone of digital transformation at Lee Wakemans.<br/>
+      <a href="https://github.com/wajiyajawaid516-rgb/Project-Data-Management-System">View Repo →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🎯 Areas of Expertise (UK Sponsorship Ready)
-- **Data Engineering:** ETL Workflows, Relational Modelling (Postgres/DuckDB), Data Lifecycle.
-- **Full-Stack AI:** Productizing ML models from notebooks to React/FastAPI dashboards.
-- **Industrial Automation:** Workflow digitisation, automated PDF reporting, and risk-detection logic.
+### 📈 Technical Competencies
+- **Engineering:** N-Tier Architecture, API Design, Data Lifecycle Management.
+- **Analysis:** Feature Engineering, Model Benchmarking, Statistical Validation.
+- **Strategy:** Process Digitization, Digital Transformation, Risk Mitigation.
 
 ---
 
-<div align="center">
-  <i>"Turning complex data into simple, secure, and scalable solutions."</i>
-  <br/>
+<p align="center">
   <img src="https://views.whatilearened.today/views/github/wajiyajawaid516-rgb/views.svg" />
-</div>
+  <br/>
+  <i>"Turning complex data into simple, secure, and scalable solutions."</i>
+</p>
