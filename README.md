@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=Wajiya%20Anam%20Jawaid&fontSize=60&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=220&section=header&text=Wajiya%20Anam%20Jawaid&fontSize=60&animation=fadeIn" width="100%" />
 
   <h3>🚀 Data Science & Systems Engineering Specialist</h3>
   <p><b>MSc Data Science (Distinction) | IT Systems Developer at Lee Wakemans</b></p>
@@ -31,18 +31,25 @@ I am a specialized **Data Engineering & Automation professional** focused on dig
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wajiyajawaid516-rgb&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajiyajawaid516-rgb&layout=compact&theme=dark&hide_border=true" width="35%" />
-</p>
+### 🌟 Featured Repositories
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercelapp.com/?username=wajiyajawaid516-rgb&theme=dark&no-frame=true&margin-w=15" width="100%" />
-</p>
+| Project | Highlights | Tech Stack |
+| :--- | :--- | :--- |
+| **🧠 [OmniClassify AI](https://github.com/wajiyajawaid516-rgb/OmniClassify-AI)** | Real-time ML Benchmarking Dashboard for 20-category text classification. | React, FastAPI, Scikit-Learn |
+| **🏗️ [Analytics Platform](https://github.com/wajiyajawaid516-rgb/Automated-Project-Analytics-Platform)** | Production-ready automation engine reducing admin time by 99%. | Python, FastAPI, Streamlit |
+| **🌊 [Sewer Flow QA](https://github.com/wajiyajawaid516-rgb/Sewer-Flow-Analytical-QA-Framework)** | MSc Dissertation: Automated Engineering QA with RAG health diagnostics. | Python, Hydrology, Plotly |
 
 ---
 
-<p align="center">
+### 🎯 Areas of Expertise (UK Sponsorship Ready)
+- **Data Engineering:** ETL Workflows, Relational Modelling (Postgres/DuckDB), Data Lifecycle.
+- **Full-Stack AI:** Productizing ML models from notebooks to React/FastAPI dashboards.
+- **Industrial Automation:** Workflow digitisation, automated PDF reporting, and risk-detection logic.
+
+---
+
+<div align="center">
   <i>"Turning complex data into simple, secure, and scalable solutions."</i>
-</p>
+  <br/>
+  <img src="https://views.whatilearened.today/views/github/wajiyajawaid516-rgb/views.svg" />
+</div>
